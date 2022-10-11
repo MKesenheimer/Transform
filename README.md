@@ -1,4 +1,4 @@
-# 3D_Printer
+# Conical Transformation for 3D-Prints
 
 ### Introduction
 This is an algorithm for a 3D printer with new printer kinematics. With this new printer kinematics, overhangs with 90° and more can be printed without support material. The two scripts can be used to generate the G-Code for the RotBot printer kinematics from a STL-file. The algorithm is based on a geometric transformation of the body. The ideas are summarized in [https://www.researchgate.net/publication/354726760_A_Novel_Slicing_Strategy_to_Print_Overhangs_without_Support_Material/citations](). 
